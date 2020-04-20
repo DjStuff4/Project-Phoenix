@@ -1,0 +1,9 @@
+﻿<Window x:Class="Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Options" Height="149" Width="300" Icon="/nedesk;component/Images/114.ico" ResizeMode="NoResize">
+    <Grid Height="95">
+        <CheckBox Content="Close app when a app has started" Height="24" HorizontalAlignment="Left" Margin="12,12,0,0" Name="CheckBox1" VerticalAlignment="Top" Width="266" />
+        <Button Content="Apply" Height="23" HorizontalAlignment="Left" Margin="191,60,0,0" Name="Button1" VerticalAlignment="Top" Width="75" />
+    </Grid>
+</Window>

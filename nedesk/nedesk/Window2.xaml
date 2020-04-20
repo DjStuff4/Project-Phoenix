@@ -1,0 +1,38 @@
+﻿<Window x:Class="Window2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Docs" Height="393" Width="510" Icon="/nedesk;component/Images/forbidden.png" IsEnabled="True" ResizeMode="NoResize">
+    <Grid>
+        <TabControl Height="355" HorizontalAlignment="Left" Margin="0,-1,0,0" Name="TabControl1" VerticalAlignment="Top" Width="488">
+            <TabItem Header="Error list" Name="TabItem1">
+                <Grid Height="331" Width="484">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="98*" />
+                        <ColumnDefinition Width="386*" />
+                    </Grid.ColumnDefinitions>
+                    <TextBox Height="331" HorizontalAlignment="Left" Margin="-3,-3,0,0" Name="TextBox1" VerticalAlignment="Top" Width="485" VerticalScrollBarVisibility="Visible" IsReadOnly="True" Grid.ColumnSpan="2" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Changelog" Name="TabItem2">
+                <Grid>
+                    <TextBox Height="331" HorizontalAlignment="Left" IsReadOnly="True" Margin="10,10,0,0" Name="TextBox2" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible" Width="485" />
+                    <TextBox Height="331" HorizontalAlignment="Left" IsReadOnly="True" Margin="-2,0,0,0" Name="TextBox3" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible" Width="485" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="EULA" Name="TabItem3">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="184*" />
+                        <ColumnDefinition Width="298*" />
+                    </Grid.ColumnDefinitions>
+                    <TextBox Grid.ColumnSpan="2" Height="331" HorizontalAlignment="Left" IsReadOnly="True" Margin="0,-4,0,0" Name="TextBox4" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible" Width="485" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Readme" Name="TabItem4">
+                <Grid>
+                    <TextBox Height="331" HorizontalAlignment="Left" IsReadOnly="True" Margin="-3,-2,0,0" Name="TextBox5" VerticalAlignment="Top" VerticalScrollBarVisibility="Visible" Width="485" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

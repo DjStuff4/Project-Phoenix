@@ -1,0 +1,24 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Novetus Desk" Height="324" Width="492" ResizeMode="NoResize" Icon="/nedesk;component/Images/Nlogo.png">
+    <Grid Height="371" Width="471">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="112*" />
+            <ColumnDefinition Width="359*" />
+        </Grid.ColumnDefinitions>
+        <Image Height="67" HorizontalAlignment="Left" Name="Image1" Stretch="Fill" VerticalAlignment="Top" Width="481" Source="/nedesk;component/Images/novetus%20banner.png" Margin="-10,0,0,0" Grid.ColumnSpan="2" />
+        <Image Height="65" HorizontalAlignment="Left" Margin="12,73,0,0" Name="Image2" Stretch="Fill" VerticalAlignment="Top" Width="65" Source="/nedesk;component/Images/Nlogo.png" />
+        <Label Content="Launch Novetus" Height="28" HorizontalAlignment="Left" Margin="83,93,0,0" Name="Label1" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Image Height="65" HorizontalAlignment="Left" Margin="12,144,0,0" Name="Image3" Source="/nedesk;component/Images/forbidden.png" Stretch="Fill" VerticalAlignment="Top" Width="65" />
+        <Label Content="View Documentation" Height="28" HorizontalAlignment="Left" Margin="83,164,0,0" Name="Label2" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Image Height="65" HorizontalAlignment="Left" Margin="12,215,0,0" Name="Image4" Source="/nedesk;component/Images/Iconshock-Real-Vista-Computer-Gadgets-Floppy-disk.ico" Stretch="Fill" VerticalAlignment="Top" Width="65" />
+        <Label Content="Install clients" Height="28" HorizontalAlignment="Left" Margin="83,235,0,0" Name="Label3" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <Image Height="65" HorizontalAlignment="Left" Margin="143,73,0,0" Name="Image5" Source="/nedesk;component/Images/Devcom-Network-Ethernet-card-Vista.ico" Stretch="Fill" VerticalAlignment="Top" Width="65" Grid.Column="1" />
+        <Label Content="Check for updates" Height="28" HorizontalAlignment="Left" Margin="214,93,0,0" Name="Label4" VerticalAlignment="Top" Grid.Column="1" />
+        <Image Height="65" HorizontalAlignment="Left" Margin="143,215,0,0" Name="Image6" Source="/nedesk;component/Images/images.jpg" Stretch="Fill" VerticalAlignment="Top" Width="65" Grid.Column="1" />
+        <Label Content="Quit" Height="28" HorizontalAlignment="Left" Margin="214,235,0,0" Name="Label5" VerticalAlignment="Top" Grid.Column="1" />
+        <Image Height="65" HorizontalAlignment="Left" Margin="143,144,0,0" Name="Image7" Source="/nedesk;component/Images/114.ico" Stretch="Fill" VerticalAlignment="Top" Width="65" Grid.Column="1" />
+        <Label Content="Launch SDK" Height="28" HorizontalAlignment="Left" Margin="214,164,0,0" Name="Label6" VerticalAlignment="Top" Grid.Column="1" />
+    </Grid>
+</Window>

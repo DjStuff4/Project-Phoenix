@@ -1,0 +1,32 @@
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\bin\Debug\nedesk.exe
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\bin\Debug\nedesk.pdb
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\bin\Debug\nedesk.xml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\MainWindow.baml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\MainWindow.g.vb
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\Application.g.vb
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\nedesk_MarkupCompile.cache
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\nedesk.g.resources
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\nedesk.Resources.resources
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\nedesk.vbproj.GenerateResource.Cache
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\nedesk.exe
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\nedesk.xml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\nedesk.pdb
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\Window1.baml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\nedesk\obj\x86\Debug\Window1.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\nedesk.exe
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\nedesk.xml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\nedesk.pdb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\bin\Debug\nedesk.exe
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\bin\Debug\nedesk.pdb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\bin\Debug\nedesk.xml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\MainWindow.baml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\Window1.baml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\MainWindow.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\Window1.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\Application.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\nedesk_MarkupCompile.cache
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\nedesk.g.resources
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\nedesk.Resources.resources
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\nedesk.vbproj.GenerateResource.Cache
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\Window2.baml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Debug\Window2.g.vb

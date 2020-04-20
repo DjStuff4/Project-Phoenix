@@ -1,0 +1,17 @@
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\bin\Release\nedesk.exe
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\bin\Release\nedesk.pdb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\bin\Release\nedesk.xml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\MainWindow.baml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\Window1.baml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\Window2.baml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\MainWindow.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\Window1.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\Window2.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\Application.g.vb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\nedesk_MarkupCompile.cache
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\nedesk.g.resources
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\nedesk.Resources.resources
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\nedesk.vbproj.GenerateResource.Cache
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\nedesk.exe
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\nedesk.xml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\nedesk\nedesk\obj\x86\Release\nedesk.pdb
