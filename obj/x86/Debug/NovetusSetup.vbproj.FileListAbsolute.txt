@@ -1,0 +1,27 @@
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\bin\Debug\NovetusSetup.exe
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\bin\Debug\NovetusSetup.pdb
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\bin\Debug\NovetusSetup.xml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\obj\x86\Debug\NovetusSetup.Form1.resources
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\obj\x86\Debug\NovetusSetup.Resources.resources
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\obj\x86\Debug\NovetusSetup.vbproj.GenerateResource.Cache
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\obj\x86\Debug\NovetusSetup.exe
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\obj\x86\Debug\NovetusSetup.xml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\NovetusSetup\obj\x86\Debug\NovetusSetup.pdb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.exe
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.xml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.pdb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\bin\Debug\NovetusSetup.exe
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\bin\Debug\NovetusSetup.pdb
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\bin\Debug\NovetusSetup.xml
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.Form1.resources
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.Resources.resources
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.vbproj.GenerateResource.Cache
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.vbprojResolveAssemblyReference.cache
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\bin\Debug\NovetusSetup.exe.config
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.Form2.resources
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.vbproj.ResolveComReference.cache
+C:\Users\ElecFURB\documents\visual studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.Dialog1.resources
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\NovetusSetup\NovetusSetup\obj\x86\Debug\NovetusSetup.Dialog2.resources
