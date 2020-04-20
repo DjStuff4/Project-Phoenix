@@ -1,0 +1,16 @@
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\bin\Debug\Automaticupdates.exe
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\bin\Debug\Automaticupdates.pdb
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\bin\Debug\Automaticupdates.xml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\obj\x86\Debug\Automaticupdates.Resources.resources
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\obj\x86\Debug\Automaticupdates.vbproj.GenerateResource.Cache
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\obj\x86\Debug\Automaticupdates.exe
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\obj\x86\Debug\Automaticupdates.xml
+C:\Users\ElecFURB\AppData\Local\Temporary Projects\Automaticupdates\obj\x86\Debug\Automaticupdates.pdb
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\obj\x86\Debug\Automaticupdates.exe
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\obj\x86\Debug\Automaticupdates.xml
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\obj\x86\Debug\Automaticupdates.pdb
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\bin\Debug\Automaticupdates.exe
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\bin\Debug\Automaticupdates.pdb
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\bin\Debug\Automaticupdates.xml
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\obj\x86\Debug\Automaticupdates.Resources.resources
+C:\Users\ElecFURB\Documents\Visual Studio 2010\Projects\Automaticupdates\Automaticupdates\obj\x86\Debug\Automaticupdates.vbproj.GenerateResource.Cache
