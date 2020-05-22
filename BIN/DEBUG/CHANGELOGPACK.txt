@@ -1,0 +1,136 @@
+1.0
+-Now Packed in a Installer that is Packed in a WinRAR Self Extractor so you don't have to manually install yourself. (thanks toast for coding and designing it)
+-Added My Custom Maps and a Few Maps from ezd's mappack.
+-Installer Files extract to Temp, then run from there.
+-Added bigbruh.zip Hat Pack, as used in NNN and Self Hosting.
+
+1.0 Hotfix 1
+-Added Seperate Download for 2012M N+ Patch to Fix an Error where alot of files were corrupted and renamed.
+
+1.0 Hotfix 2
+-2012 Patch is Now Intergrated into Installer
+
+1.1
+-Changelog now built in the Installer
+-DjStuff's Mappack now includes 2013-2016 Maps
+-Due to this, 2005-2012 and 2013-2016 Maps in the installer source are seperate. This will not stop it from extracting both parts in the same folder, so you will still have both in DjStuff's Mappack.
+-2010E, 2012, 2012M (ezd), and 2012MM now run on patched .exe client files (thanks idkwhatnametoget)
+-New setup design
+-Added Novetus version detection
+-Added EULA Screen
+-Removed Auto Folder Detection. 
+-Removed 2010L-GT3 reskin 1.0
+-Added a System that Detects if the pack has already been installed before
+
+1.1 Hotfix 1
+
+-Fixed an error where 2010L-Reskin 1.0 was still in the client zip for the installer. woops.
+-Fixed a Glitch where the EULA Box was Black instead of White, making it unreadable unless you highlighted over it.
+
+1.2
+-Added option for Making Start Menu Shortcuts
+-Added a Check that checks if you are running Vista+ or XP and Below. If it detects XP and Below, including its 64 bit versions, It will give an error that says the content pack wont work, and close the installer.
+-Added a Text Copy in the Installer for the EULA, Changelog, and Errors that will install seperately to the same directory as the .exe
+-Optional Check to Make a Desktop Shortcut for the Novetus SDK (for developers)
+-Text Editing
+-Integrated 2011E+ Texture Patch
+-New 2007MM Client (intergrated into the launcher, previously a seperate download)
+-Better changelog dialog box
+-Option to add more clients using .NEC (Novetus expansion client archive) files.
+-1.0 Edition of GT3 2010 Retexture Now is an Optional .NEC file.
+
+1.3
+-Scrapped Uninstaller
+-SDK Shortcuts have been fixed.
+-Credits in Launcher now include DemoMan's name for 2007MM.
+-Added MAO's place archive until Novetus 1.2 releases.
+-For the People who believe it works outside RBXLegacy (aka 1%), You're wrong. Installer even warns you about it, despite there being a few RBXLegacy clients thrown in there.
+-Smith McCool has been added to the Faces. (thanks toast)
+-Optional .nec Installer is now seperate.
+-Changelog no longer overwrites the Novetus Default.
+-Installer now deletes it's zip files to save space on the disk.
+-Code is Now Open Source on our github! Reuse our code for whatever you want!
+-2007S and 2011E+ now has the play solo executable (Thanks demoman)
+-Yes, We did update the EULA and Errors, finally.
+-We have a discord now! Included in the launcher and website! Come see for yourself!
+
+
+1.4
+
+-Now Has a ReadMe!
+-Includes an AutoUpdater that starts on startup
+-Now includes a Model Pack!
+-2010E, 2011EM, and 2011EM+ Moved to .nec files.
+-Now you have built in artwork!
+-Includes a Few ESZ Mappack Maps (for real!)
+-Now Items have Descriptions!
+
+1.5
+
+
+
+-Scrapped the 2007ES Clientinfo and renamed it from 2007MM to 2007ES instead.
+-Now includes telamon's big world (2011 starter and original)
+-New 2006LS client! ( based off RBXLegacy 2006 Fake, It's been modded to have the oldest fake 2006 icons from the most convincing fake 2006 clients to date, and the old default face) 
+-New Optional Install type: .nem
+-esz's maps are now seperate to lower installer size.
+
+1.6 "Goodbye Edition"
+
+-Scroll Wheel on EULA is now fixed
+-Added more clients
+-Integrated a slimmed down esz mappack (lowered down to 1gb unzipped and 200mb zipped)
+-Integrated the optional clients
+-Added a slimmed down P4RIS Mappack (9mb zipped)
+
+
+2.0 (The Grave)
+
+-Due to the TEMPORARY Seperation of Toast and DjStuff, and Dj's recent dissapearance from the Novetus Discord, The Installer has changed to a free InnoSetup Version.
+-Discord, and Github are now all scratched for the meantime.
+-You can view what's left of the site at sites.google.com/view/novetus11overhaul.
+-Updated Changelog and errors
+-New Readme Style
+-Removed ESZ's maps due to the massive gamble that was required to get a map to run a map without converting it before hand.
+-Now Includes a Pile of My Free Model Creations, from 2014 to 2020. (currently only a few maps, soz)
+-To Prevent Further Issues, I now use my clients.
+-Renamed 2012 RBXLegacy to 2012E.
+-2012M N+ Now Includes a clientinfo that allows no3d hosting.
+-Renamed Several Other Clients
+-Given a useful copy of Person299's Admin Commands for Convenience
+-Made a Rewroten Credits
+-New Splashes, mostly related to the new me.
+-2011EM+ No longer included
+-ESZ 2012 Clients Scrapped
+-Now Has the Manual Launch Clients
+-Now Has a Credits/Thank You Text File that extracts to Novetus Folder.
+-TPG is in Closed Testing for the Meantime
+
+2.1 (The Phoenix's Resurrection)
+
+-Toast is Now Back.
+-Manual Clients Moved to Optional Content
+-TPG has moved out of Testing.
+-Replanning the Discord
+-Github has been scratched
+-Scratched the ToastInstaller Creator
+-New Splashes on the Outcome and More.
+-Eula has been packed into a big README to make the update below possible.
+-Second Text Screen now begs you to Select the Folder with Novetus in it.
+-Removed the 'READ BEFORE SUING' Note on the EULA.
+-You can now install a version that has been preinstalled with the pack on 1.1
+
+
+
+2.2 "The Path to Heaven"
+
+-Renamed Several Clients
+-You can now only install a clean 1.1 copy or manually install the content from a .zip
+-Added Descriptions to My Place Archive.
+-Moved the Mappack to a seperate folder to unclutter the maps folder
+-Removed the Original 2012M N+ Seperate Launcher due to it's inability to work.
+-Even More Goofier Splashes
+-Revived 2011EM with modified 2011M Textures to fix the Scaling Issues
+-Made a Copy of the Original Ugly 2011EM
+-Modified a few ClientInfos.
+-Removed Herobrine

@@ -1,0 +1,16 @@
+Errors 
+
+-Hosting with the 2008 and 2010 GT3 Reskins Prevent others from Joining, even with port forwarding and UPNP enabled.
+-2011E+ can't join 2011E servers, as Novetus' Security system prevents players from cross joining it, and due to different hashes and clientinfos.
+-Studio Crashes in 2006LS and 2007S
+-2011EM has stretched icons in places
+-2009E is no longer needed due to the latest 1.2 snapshot
+-2007S allows clothing, while the original RBXLegacy 1.18 version didn't.
+-2014+ clients don't exist for the Built-in launcher yet.
+-Hat/Clothing Customization is not availible for 2009M.
+-2008L runs on 2009E's CSMP Functions, Providing SEVERAL Inaccuracies, such as Graphics or Engine.
+-You have to manually back up your files incase something goes wrong.
+-The Newer Installer is more laid back, meaning you have less limitations on installing it in a way
+-The Uninstaller is a gamble to see if it uninstalls just the expansion pack files, OR Novetus' files as well
+-If you uninstall with the built in installer, It will also uninstall ALOT of Novetus Hats (due to my laziness.)
+-Hats and don't have descriptions yet.
