@@ -3,7 +3,8 @@
 The custom SDK for the EP.
 Uses WPF VB.NET .NET 4.0.
 
-~~~~ EXAMPLE CONFIG FILE:~~~~ 
+Example config.ini file:
+~~~~~~~~ 
 
 [NovetusSDK]
 Location=!currentdir!
