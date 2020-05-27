@@ -1,0 +1,26 @@
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\bin\Debug\EPSDK.exe
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\bin\Debug\EPSDK.pdb
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\bin\Debug\EPSDK.xml
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\MainWindow.baml
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\MainWindow.g.vb
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\Application.g.vb
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\EPSDK_MarkupCompile.cache
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\EPSDK.g.resources
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\EPSDK.Resources.resources
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\EPSDK.vbproj.GenerateResource.Cache
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\EPSDK.exe
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\EPSDK.xml
+C:\Users\matte\AppData\Local\Temporary Projects\EPSDK\obj\x86\Debug\EPSDK.pdb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\EPSDK.exe
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\EPSDK.xml
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\EPSDK.pdb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\bin\Debug\EPSDK.exe
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\bin\Debug\EPSDK.pdb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\bin\Debug\EPSDK.xml
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\MainWindow.baml
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\MainWindow.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\Application.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\EPSDK_MarkupCompile.cache
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\EPSDK.g.resources
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\EPSDK.Resources.resources
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDK\EPSDK\obj\x86\Debug\EPSDK.vbproj.GenerateResource.Cache

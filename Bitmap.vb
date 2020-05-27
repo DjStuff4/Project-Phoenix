@@ -1,0 +1,4 @@
+﻿
+Class Bitmap
+
+End Class
