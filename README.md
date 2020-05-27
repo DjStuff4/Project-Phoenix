@@ -11,6 +11,7 @@ Location=!currentdir!
 EXE=Novetus.exe
 ARGS=-sdk
 Desc=The normal Novetus SDK.
+
 [Place converter]
 Location=!currentdir!
 EXE=RLPC.EXE
