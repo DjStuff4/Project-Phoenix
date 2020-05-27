@@ -3,9 +3,9 @@
 The custom SDK for the EP.
 Uses WPF VB.NET .NET 4.0.
 
-EXAMPLE CONFIG FILE:
+~~~~ EXAMPLE CONFIG FILE:~~~~ 
 
-~~~~ [NovetusSDK]~~~~ 
+[NovetusSDK]
 Location=!currentdir!
 EXE=Novetus.exe
 ARGS=-sdk
