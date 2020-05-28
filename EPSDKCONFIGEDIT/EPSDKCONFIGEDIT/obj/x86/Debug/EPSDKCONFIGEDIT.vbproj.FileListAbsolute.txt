@@ -1,0 +1,13 @@
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\bin\Debug\EPSDKCONFIGEDIT.exe
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\bin\Debug\EPSDKCONFIGEDIT.pdb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\bin\Debug\EPSDKCONFIGEDIT.xml
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\MainWindow.baml
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\MainWindow.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\Application.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT_MarkupCompile.cache
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.g.resources
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\WpfApplication1.Resources.resources
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.vbproj.GenerateResource.Cache
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.exe
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.xml
+C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.pdb
