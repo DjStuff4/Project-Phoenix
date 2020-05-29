@@ -4,7 +4,7 @@ The custom SDK for the EP.
 Uses WPF VB.NET .NET 4.0.
 
 Icon for the BMC is from: http://www.designcontest.com
-
+BMC is based on Bakonbot's Map converter found here: https://github.com/BakonBot/legacy-place-converter
 Example config.ini file:
 ~~~~~~~~ 
 
