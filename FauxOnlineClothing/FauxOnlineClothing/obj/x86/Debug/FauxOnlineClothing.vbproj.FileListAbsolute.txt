@@ -1,0 +1,13 @@
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\bin\Debug\FauxOnlineClothing.exe
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\bin\Debug\FauxOnlineClothing.pdb
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\bin\Debug\FauxOnlineClothing.xml
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\MainWindow.baml
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\MainWindow.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\Application.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing_MarkupCompile.cache
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.g.resources
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.Resources.resources
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.vbproj.GenerateResource.Cache
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.exe
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.xml
+C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.pdb
