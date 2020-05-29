@@ -1,0 +1,15 @@
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\bin\Debug\BulkPlaceConvert.exe
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\bin\Debug\BulkPlaceConvert.pdb
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\bin\Debug\BulkPlaceConvert.xml
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\MainWindow.baml
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\MainWindow.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\Application.g.vb
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\BulkPlaceConvert_MarkupCompile.cache
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\BulkPlaceConvert.g.resources
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\BulkPlaceConvert.Resources.resources
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\BulkPlaceConvert.vbproj.GenerateResource.Cache
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\BulkPlaceConvert.exe
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\BulkPlaceConvert.xml
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\BulkPlaceConvert.pdb
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\Window1.baml
+C:\Users\matte\documents\visual studio 2010\Projects\BulkPlaceConvert\BulkPlaceConvert\obj\x86\Debug\Window1.g.vb

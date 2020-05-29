@@ -3,6 +3,8 @@
 The custom SDK for the EP.
 Uses WPF VB.NET .NET 4.0.
 
+Icon for the BMC is from: http://www.designcontest.com
+
 Example config.ini file:
 ~~~~~~~~ 
 

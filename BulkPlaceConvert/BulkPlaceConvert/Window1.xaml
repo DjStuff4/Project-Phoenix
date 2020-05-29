@@ -1,0 +1,12 @@
+﻿<Window x:Class="Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Web Browser" Height="479" Width="729">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="244*" />
+            <ColumnDefinition Width="98*" />
+        </Grid.ColumnDefinitions>
+        <WebBrowser Height="440" HorizontalAlignment="Left" Name="WebBrowser1" VerticalAlignment="Top" Width="707" Grid.ColumnSpan="2" />
+    </Grid>
+</Window>

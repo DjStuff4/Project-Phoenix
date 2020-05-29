@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BulkPlaceConvert", "BulkPlaceConvert\BulkPlaceConvert.vbproj", "{3E2A3D11-6BC5-41BD-85C7-86CDDB0E5E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2A3D11-6BC5-41BD-85C7-86CDDB0E5E68}.Debug|x86.ActiveCfg = Debug|x86
+		{3E2A3D11-6BC5-41BD-85C7-86CDDB0E5E68}.Debug|x86.Build.0 = Debug|x86
+		{3E2A3D11-6BC5-41BD-85C7-86CDDB0E5E68}.Release|x86.ActiveCfg = Release|x86
+		{3E2A3D11-6BC5-41BD-85C7-86CDDB0E5E68}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
