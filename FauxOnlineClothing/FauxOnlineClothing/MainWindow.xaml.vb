@@ -7,6 +7,16 @@ Class MainWindow
     Dim lol As String
     ' Environment.CurrentDirectory & "\shareddata\charcustom\" & ComboBox1.SelectedValue
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.Windows.RoutedEventArgs) Handles Button1.Click
+
+        If System.IO.File.Exists(Environment.CurrentDirectory & "\temp.rbxm") Then
+            FileSystem.Kill(Environment.CurrentDirectory & "\temp.rbxm")
+        End If
+        If System.IO.File.Exists(Environment.CurrentDirectory & "\tempdesc.html") Then
+            FileSystem.Kill(Environment.CurrentDirectory & "\tempdesc.html")
+        End If
+        If System.IO.File.Exists(Environment.CurrentDirectory & "\PREVIEW.PNG") Then
+            FileSystem.Kill(Environment.CurrentDirectory & "\PREVIEW.PNG")
+        End If
         Try
             If Not TextBox1.Text = "" Then
                 If Not TextBox2.Text = "" Then
