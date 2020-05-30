@@ -14,7 +14,7 @@
                     <TextBox Height="23" Margin="14,3,68,0" Name="TextBox1" VerticalAlignment="Top" Grid.Row="1" />
                     <Label Content="EXE" Height="28" HorizontalAlignment="Left" Margin="10,32,0,0" Name="Label2" VerticalAlignment="Top" Width="52" Grid.Row="1" />
                     <TextBox Height="23" HorizontalAlignment="Left" Margin="14,58,0,0" Name="TextBox2" VerticalAlignment="Top" Width="307" Grid.Row="1" />
-                    <Label Content="Directory (use !currentdirectory! for the folder of the SDK.)" Height="28" Margin="10,87,54,0" Name="Label3" VerticalAlignment="Top" Grid.Row="1" />
+                    <Label Content="Directory (use !currentdir! for the folder of the SDK.)" Height="28" Margin="10,87,54,0" Name="Label3" VerticalAlignment="Top" Grid.Row="1" />
                     <TextBox Height="23" Margin="14,113,0,0" Name="TextBox3" VerticalAlignment="Top" HorizontalAlignment="Left" Width="307" Grid.Row="1" />
                     <Label Content="Arguments" Height="28" Margin="10,142,56,0" Name="Label4" VerticalAlignment="Top" Grid.Row="1" />
                     <TextBox Height="23" Margin="14,0,0,-134" Name="TextBox4" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="294" Grid.Row="1" />

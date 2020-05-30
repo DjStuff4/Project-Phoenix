@@ -4,7 +4,7 @@
 winexe
 VB
 .vb
-C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\
 WpfApplication1
 none
 false
@@ -12,7 +12,7 @@ false
 C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\Application.xaml
 11151548125
 
-81957405795
+7528727511
 103850424
 MainWindow.xaml;
 

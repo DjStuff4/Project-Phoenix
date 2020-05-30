@@ -11,3 +11,6 @@ C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnli
 C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.exe
 C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.xml
 C:\Users\matte\documents\visual studio 2010\Projects\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.pdb
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.exe
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.xml
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\FauxOnlineClothing\FauxOnlineClothing\obj\x86\Debug\FauxOnlineClothing.pdb

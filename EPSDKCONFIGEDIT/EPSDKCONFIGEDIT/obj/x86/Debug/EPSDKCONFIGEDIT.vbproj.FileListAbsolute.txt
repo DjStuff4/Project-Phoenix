@@ -11,3 +11,6 @@ C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIG
 C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.exe
 C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.xml
 C:\Users\matte\documents\visual studio 2010\Projects\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.pdb
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.exe
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.xml
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Debug\EPSDKCONFIGEDIT.pdb

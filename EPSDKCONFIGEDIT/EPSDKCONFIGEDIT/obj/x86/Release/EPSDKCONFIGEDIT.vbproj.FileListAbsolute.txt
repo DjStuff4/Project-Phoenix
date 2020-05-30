@@ -1,0 +1,13 @@
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\bin\Release\EPSDKCONFIGEDIT.exe
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\bin\Release\EPSDKCONFIGEDIT.pdb
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\bin\Release\EPSDKCONFIGEDIT.xml
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\MainWindow.baml
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\MainWindow.g.vb
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\Application.g.vb
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\EPSDKCONFIGEDIT_MarkupCompile.cache
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\EPSDKCONFIGEDIT.g.resources
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\WpfApplication1.Resources.resources
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\EPSDKCONFIGEDIT.vbproj.GenerateResource.Cache
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\EPSDKCONFIGEDIT.exe
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\EPSDKCONFIGEDIT.xml
+C:\Users\matte\Documents\GitHub\Novetus1.1EPTPG2.0\EPSDKCONFIGEDIT\EPSDKCONFIGEDIT\obj\x86\Release\EPSDKCONFIGEDIT.pdb
