@@ -1,7 +1,7 @@
 ﻿<Window x:Class="MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    Title="FauxOnlineClothing" Height="225" Width="230" ResizeMode="NoResize">
+    Title="FauxOnlineClothing" Height="225" Width="230" ResizeMode="NoResize" Icon="/FauxOnlineClothing;component/Iconsmind-Outline-T-Shirt.ico">
     <Grid Height="191">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="203*" />
@@ -14,7 +14,7 @@
         <TextBox Height="24" HorizontalAlignment="Left" Margin="12,22,0,0" Name="TextBox2" VerticalAlignment="Top" Width="186" />
         <Label Content="Name" Height="28" HorizontalAlignment="Left" Margin="7,0,0,0" Name="Label3" VerticalAlignment="Top" />
         <RadioButton Content="T Shirt" Height="16" HorizontalAlignment="Left" Margin="12,112,0,0" Name="RadioButton1" VerticalAlignment="Top" />
-        <RadioButton Content="Shirt" Height="16" HorizontalAlignment="Left" Margin="85,112,0,0" Name="RadioButton2" VerticalAlignment="Top" />
-        <RadioButton Content="Pants" Height="16" HorizontalAlignment="Left" Margin="153,112,0,0" Name="RadioButton3" VerticalAlignment="Top" />
+        <RadioButton Content="Shirt" Height="16" HorizontalAlignment="Left" Margin="84,112,0,0" Name="RadioButton2" VerticalAlignment="Top" />
+        <RadioButton Content="Pants" Height="16" HorizontalAlignment="Left" Margin="147,112,0,0" Name="RadioButton3" VerticalAlignment="Top" Width="49" />
     </Grid>
 </Window>

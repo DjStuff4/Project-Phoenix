@@ -1,6 +1,7 @@
 ﻿Imports System.Text.RegularExpressions
 Imports System.IO
 Imports System.Text
+Imports System.Net
 
 Class MainWindow
     Dim lol As String
@@ -50,22 +51,23 @@ Class MainWindow
         If System.IO.File.Exists(Environment.CurrentDirectory & "\temp.rbxm") Then
             FileSystem.Kill(Environment.CurrentDirectory & "\temp.rbxm")
         End If
+        If System.IO.File.Exists(Environment.CurrentDirectory & "\tempdesc.html") Then
+            FileSystem.Kill(Environment.CurrentDirectory & "\tempdesc.html")
+        End If
+        If System.IO.File.Exists(Environment.CurrentDirectory & "\PREVIEW.PNG") Then
+            FileSystem.Kill(Environment.CurrentDirectory & "\PREVIEW.PNG")
+        End If
     End Sub
 
     Sub CreateItem()
+        pullitemdesc()
+
         FileCopy(Environment.CurrentDirectory & "\temp.rbxm", Environment.CurrentDirectory & "\shareddata\charcustom\" & lol.ToString & "\" & TextBox2.Text & ".rbxm")
 
         FileCopy(Environment.CurrentDirectory & "\PREVIEW.PNG", Environment.CurrentDirectory & "\shareddata\charcustom\" & lol.ToString & "\" & TextBox2.Text & ".PNG")
 
-        Dim path As String = Environment.CurrentDirectory & "\shareddata\charcustom\" & lol & "\" & TextBox2.Text & "_desc.txt"
 
-        ' Create or overwrite the file.
-        Dim fs As FileStream = File.Create(path)
 
-        ' Add text to the file.
-        Dim info As Byte() = New UTF8Encoding(True).GetBytes("Generated with FauxOnlineClothing")
-        fs.Write(info, 0, info.Length)
-        fs.Close()
         MsgBox("Completed!", MsgBoxStyle.OkOnly + MsgBoxStyle.Information)
     End Sub
 
@@ -80,4 +82,93 @@ Class MainWindow
     Private Sub RadioButton3_Checked(ByVal sender As System.Object, ByVal e As System.Windows.RoutedEventArgs) Handles RadioButton3.Checked
         lol = "pants"
     End Sub
+
+    Private Sub RadioButton4_Checked(ByVal sender As System.Object, ByVal e As System.Windows.RoutedEventArgs)
+        lol = "hats"
+    End Sub
+
+    Sub pullitemdesc()
+
+
+        Dim request As WebRequest = WebRequest.Create("https://www.roblox.com/catalog/" & TextBox1.Text)
+        Using response As WebResponse = request.GetResponse()
+            Using reader As New StreamReader(response.GetResponseStream())
+                Dim html As String = reader.ReadToEnd()
+                File.WriteAllText(Environment.CurrentDirectory & "\tempdesc.html", html)
+            End Using
+        End Using
+
+
+
+        If IO.File.ReadAllText(Environment.CurrentDirectory & "\tempdesc.html").Contains("Object moved") Then
+
+            Dim sa As String = IO.File.ReadAllText(Environment.CurrentDirectory & "\tempdesc.html")
+            Dim ia As Integer = sa.IndexOf(Chr(34))
+            Dim fa As String = sa.Substring(ia + 1, sa.IndexOf(Chr(34), ia + 1) - ia - 1)
+            FileSystem.Kill(Environment.CurrentDirectory & "\tempdesc.html")
+
+            Dim reaquest As WebRequest = WebRequest.Create("https://www.roblox.com/catalog/" & TextBox1.Text)
+            Using response As WebResponse = reaquest.GetResponse()
+                Using reader As New StreamReader(response.GetResponseStream())
+                    Dim html As String = reader.ReadToEnd()
+                    File.WriteAllText(Environment.CurrentDirectory & "\tempdesc.html", html)
+                End Using
+            End Using
+
+
+        End If
+
+
+
+
+        Dim s As String = IO.File.ReadAllText(Environment.CurrentDirectory & "\tempdesc.html")
+        Dim i As Integer = s.IndexOf("class=""description-content font-body text wait-for-i18n-format-render "">")
+
+
+
+        Dim f As String = s.Substring(i + 1, s.IndexOf("</p>", i + 1) - i - 1)
+
+
+
+        f = f.Replace("lass=""description-content font-body text wait-for-i18n-format-render "">", "")
+
+        Dim lolwut As String = Environment.CurrentDirectory & "\shareddata\charcustom\" & lol.ToString & "\" & TextBox2.Text & "_desc.txt"
+
+        Dim fileA As System.IO.StreamWriter
+        fileA = My.Computer.FileSystem.OpenTextFileWriter(lolwut, False)
+        fileA.WriteLine(f)
+        fileA.Close()
+
+        pullpreview()
+
+    End Sub
+
+
+    Function After(ByVal value As String, ByVal a As String) As String
+        ' Get index of argument and return substring after its position.
+        Dim posA As Integer = value.LastIndexOf(a)
+        If posA = -1 Then
+            Return ""
+        End If
+        Dim adjustedPosA As Integer = posA + a.Length
+        If adjustedPosA >= value.Length Then
+            Return ""
+        End If
+        Return value.Substring(adjustedPosA)
+    End Function
+    Sub pullpreview()
+
+        Dim s As String = IO.File.ReadAllText(Environment.CurrentDirectory & "\tempdesc.html")
+        Dim i As Integer = s.IndexOf("asset-thumbnail-3d/json?assetId=2665843588"" >")
+
+
+
+        Dim f As String = s.Substring(i + 1, s.IndexOf("'/></span>", i + 1) - i - 1)
+        f = After(f, "src='")
+
+
+        My.Computer.Network.DownloadFile(f.Replace("https", "http"), Environment.CurrentDirectory & "\preview.png")
+
+    End Sub
+
 End Class
