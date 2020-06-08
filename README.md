@@ -8,6 +8,7 @@ Icon for the BMC is from: http://www.designcontest.com
 
 BMC is based on Bakonbot's Map converter found here: https://github.com/BakonBot/legacy-place-converter
 
+Some code was taken from stackoverflow.
 
 Example config.ini file:
 ~~~~~~~~ 
